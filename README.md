@@ -45,7 +45,5 @@ danang-travel/
 Mở tệp `index.html` bằng trình duyệt web để xem website. 
 Link GitHub Web:
 https://WackDuck.github.io/danang-travel/
-
 ## Link GitHub Pages
-
 https://github.com/WackDuck/danang-travel
