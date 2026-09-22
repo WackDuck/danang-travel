@@ -42,19 +42,10 @@ danang-travel/
 
 ## Chạy website
 
-Mở tệp `index.html` bằng trình duyệt web để xem website. Không cần cài đặt thư viện hay máy chủ cục bộ.
-
-## Triển khai GitHub Pages
-
-1. Tạo repository GitHub có tên `danang-travel` và tải toàn bộ nội dung thư mục dự án lên nhánh `main`.
-2. Vào **Settings** > **Pages** của repository.
-3. Chọn triển khai từ nhánh `main`, thư mục gốc (`/root`), rồi lưu lại.
-4. Chờ GitHub xuất bản và mở đường dẫn được cung cấp.
-
-## Nguồn ảnh
-
-Ảnh trong thư mục `images` cần được thay bằng ảnh tự chụp hoặc ảnh có giấy phép sử dụng phù hợp từ Unsplash, Pexels hoặc Pixabay trước khi sử dụng công khai.
+Mở tệp `index.html` bằng trình duyệt web để xem website. 
+Link GitHub Web:
+https://WackDuck.github.io/danang-travel/
 
 ## Link GitHub Pages
 
-Chưa triển khai. Dùng đường dẫn mẫu trong tệp `github-pages-link.txt` sau khi thay tên tài khoản GitHub thật.
+https://github.com/WackDuck/danang-travel
