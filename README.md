@@ -1,6 +1,6 @@
 # Website Khám phá Đà Nẵng
 
-Website tĩnh giới thiệu các điểm đến, ẩm thực và thông tin du lịch cơ bản về Đà Nẵng. Đây là bài tập thực hành HTML5 và CSS3, có giao diện đáp ứng cho máy tính và điện thoại.
+Website tĩnh giới thiệu các điểm đến, ẩm thực và thông tin du lịch cơ bản về Đà Nẵng. Đây là bài tập thực hành HTML5 và CSS3, có giao diện đáp ứng cho máy tính, máy tính bảng và điện thoại.
 
 ## Các trang
 
@@ -8,6 +8,9 @@ Website tĩnh giới thiệu các điểm đến, ẩm thực và thông tin du 
 - `about.html`: Giới thiệu về Đà Nẵng.
 - `destinations.html`: Những điểm đến nổi bật.
 - `food.html`: Ẩm thực Đà Nẵng.
+- `gallery.html`: Thư viện ảnh.
+- `itinerary.html`: Lịch trình tham khảo 3 ngày 2 đêm.
+- `tips.html`: Cẩm nang chuẩn bị chuyến đi.
 - `contact.html`: Thông tin và biểu mẫu liên hệ minh họa.
 
 ## Cấu trúc thư mục
@@ -18,6 +21,9 @@ danang-travel/
 ├── about.html
 ├── destinations.html
 ├── food.html
+├── gallery.html
+├── itinerary.html
+├── tips.html
 ├── contact.html
 ├── css/
 │   └── style.css
@@ -31,7 +37,8 @@ danang-travel/
 │   ├── bun-cha-ca.jpg
 │   └── seafood.jpg
 ├── README.md
-└── github-pages-link.txt
+├── github-pages-link.txt
+└── nguon-tai-lieu.txt
 ```
 
 ## Công nghệ sử dụng
@@ -42,19 +49,13 @@ danang-travel/
 
 ## Chạy website
 
-Mở tệp `index.html` bằng trình duyệt web để xem website. Không cần cài đặt thư viện hay máy chủ cục bộ.
+Mở tệp `index.html` bằng trình duyệt web để xem website. 
+Link GitHub Web:
+https://WackDuck.github.io/danang-travel/
 
-## Triển khai GitHub Pages
-
-1. Tạo repository GitHub có tên `danang-travel` và tải toàn bộ nội dung thư mục dự án lên nhánh `main`.
-2. Vào **Settings** > **Pages** của repository.
-3. Chọn triển khai từ nhánh `main`, thư mục gốc (`/root`), rồi lưu lại.
-4. Chờ GitHub xuất bản và mở đường dẫn được cung cấp.
+## Link GitHub Pages
+https://github.com/WackDuck/danang-travel
 
 ## Nguồn ảnh
 
-Ảnh trong thư mục `images` cần được thay bằng ảnh tự chụp hoặc ảnh có giấy phép sử dụng phù hợp từ Unsplash, Pexels hoặc Pixabay trước khi sử dụng công khai.
-
-## Link GitHub Pages
-
-Chưa triển khai. Dùng đường dẫn mẫu trong tệp `github-pages-link.txt` sau khi thay tên tài khoản GitHub thật.
+Xem tệp `nguon-tai-lieu.txt`. Ảnh trong thư mục `images` 
